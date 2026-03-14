@@ -1,5 +1,3 @@
-# Erick Contreras
-
 ## Sobre Mí
 
 Desarrollador apasionado por la tecnología con experiencia en el desarrollo de aplicaciones
@@ -19,9 +17,7 @@ que mejoren la experiencia del usuario.
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=contrererick-ids)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=contrererick-ids&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=contrererick-ids)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=contrererick-ids&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
