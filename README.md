@@ -17,7 +17,7 @@ que mejoren la experiencia del usuario.
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=contrererick-ids)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=contrererick-ids&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=contrererick-ids&theme=dark)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=contrererick-ids&show=prs_merged,prs_merged_percentage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
