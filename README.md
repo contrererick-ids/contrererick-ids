@@ -1,6 +1,6 @@
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=contrererick-ids&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=contrererick-ids&theme=highcontrast&hide_border=true&border_radius=3.2&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
