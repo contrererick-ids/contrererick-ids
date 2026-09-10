@@ -1,6 +1,9 @@
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=contrererick-ids&theme=highcontrast&hide_border=true&border_radius=3.2&mode=weekly)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=contrererick-ids&theme=highcontrast&hide_border=true&show_icons=true" alt="Erick's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com.vercel.app?user=contrererick-ids&theme=highcontrast&hide_border=true" alt="Erick's Streak" />
+</p>
 
 ---
 
