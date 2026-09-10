@@ -1,9 +1,7 @@
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=contrererick-ids&theme=highcontrast&hide_border=true&show_icons=true" alt="Erick's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com.vercel.app?user=contrererick-ids&theme=highcontrast&hide_border=true" alt="Erick's Streak" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=contrererick-ids&theme=highcontrast&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=contrererick-ids&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
 
